@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Agribiom (an interface for agricultural researchers)**
 
-- 🌱 I’m currently learning **Python, R and Javascript framework**
+- 🌱 I’m currently learning **Python, R and React**
 
 - 👨‍💻 All of my projects are available at [https://clement-gambier.fr](https://clement-gambier.fr)
 

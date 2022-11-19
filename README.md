@@ -1,13 +1,13 @@
 ### Hi there 👋, I'm Clément
-<h3 align="center">20 years old - Computer science student in Montpellier (France)</h3>
+<h3 align="center">20 years old - Computer science engineering student in Lille (France)</h3>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/yALcFbrKshfoY/giphy.gif" width="200">
 </div>
 
-- 🔭 I’m currently working on **Agribiom (an interface for agricultural researchers)**
+- 🔭 I’m currently working at **Gusto Solutions** as a software developper
 
-- 🌱 I’m currently learning **Python, R and React**
+- 🌱 I’m currently learning **Go**
 
 - 👨‍💻 All of my projects are available at [https://clement-gambier.fr](https://clement-gambier.fr)
 

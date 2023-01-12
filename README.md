@@ -5,11 +5,9 @@
   <img src="https://media.giphy.com/media/yALcFbrKshfoY/giphy.gif" width="200">
 </div>
 
-- 🔭 I’m currently working at **Gusto Solutions** as a software developper
+- 🔭 I’m currently working at **Gusto Solutions** as a software developper and I have a contract with Réutec.
 
 - 🌱 I’m currently learning **Go**
-
-- 👨‍💻 All of my projects are available at [https://clement-gambier.fr](https://clement-gambier.fr)
 
 
 

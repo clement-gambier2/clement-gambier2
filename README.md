@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/yALcFbrKshfoY/giphy.gif" width="200">
 </div>
 
-- 🔭 I’m currently working at **Gusto Solutions** as a software developper and I have a contract with Réutec.
+- 🔭 I’m currently working at **Gusto Solutions** as a software developper and I have a contract with Réutec as a freelance.
 
 - 🌱 I’m currently learning **Go**
 

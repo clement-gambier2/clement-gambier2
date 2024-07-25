@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working at **Access IT** as a software developper and I have a contract with Réutec as a freelance.
 
-- 🌱 I’m currently learning **Go#**
+- 🌱 I’m currently learning **Go**
 
 
 

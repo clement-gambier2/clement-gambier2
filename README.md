@@ -1,11 +1,11 @@
 ### Hi there 👋, I'm Clément
-<h3 align="center">23 years old - Computer science engineering student in Lille (France)</h3>
+<h3 align="center">24 years old - Software developer in Lille (France)</h3>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/yALcFbrKshfoY/giphy.gif" width="200">
 </div>
 
-- 🔭 I’m currently working at **Access IT** as a software developper and I have a contract with Réutec as a freelance.
+- 🔭 I’m currently working at **Sami** as a software developper and with Réutec in freelance.
 
 - 🌱 I'm currently learning DDD, hexagonal architecture and **good** software engineering practices.
 
